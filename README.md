@@ -1,4 +1,4 @@
-I'm Batman.
+I am NOT associated with, suppoprted by, or affiliated with the Rust Foundation.
 # *How to reach me* 
   - [snekkieboi@pm.me / snekkieboi@proton.me / snekkieboi@protonmail.com](mailto:snekkieboi@proton.me)
   - [snekkieboi@tutanota.com](mailto:snekkieboi@tutanota.com)
